@@ -186,17 +186,12 @@ hr {
   line-height: 44px;
   margin-bottom: 15px;
 }
-/* 
+
 .project ul {
   display: flex;
   width: 85%;
   justify-content: space-between;
-} */
-.project ul {
-  float: left;
-  justify-content: center;
 }
-
 
 ul > li {
   padding: 1rem 0;
@@ -212,7 +207,7 @@ ul > li {
 
 .bg-img {
   padding-top: 58px;
-  background-image: url("images/Img\ Placeholder\ \(1\).png");
+  background-image: url("images/Img\ Placeholder\ \(1\)\ \(1\).png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
