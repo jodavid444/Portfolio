@@ -6,7 +6,7 @@ const closeBtn = document.querySelector('.close-btn-container').children[0];
 const headerContent = document.querySelector('#header_content');
 const linksItem1 = document.querySelector('.links-item1');
 const linksItem2 = document.querySelector('.links-item2');
-const linksItem3 = document.querySelector('.links-item3');
+const linksItem3 = document.querySelectorsgi('.links-item3');
 
 menuIcon.addEventListener('click', () => {
   navMenu.style.transform = 'translateX(0)';
